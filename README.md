@@ -57,7 +57,7 @@ A modern, feature-rich calendar application built with Next.js and React.
 
 ## Deployed App
 
-You can view the live deployed app here: [Event Calendar App](https://your-deployed-app-url.com)
+You can view the live deployed app here: [Event Calendar App](https://event-calendar-app-seven.vercel.app/)
 
 ## Technologies Used
 
